@@ -7,3 +7,4 @@ xhofe/alist:latest
 lerrybin/postgresql17-zhparser:latest
 elestio/pgadmin
 filebrowser/filebrowser:v2-s6
+seafileltd/seafile:latest
